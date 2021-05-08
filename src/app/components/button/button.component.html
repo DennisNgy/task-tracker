@@ -1,0 +1,11 @@
+<button type="button"
+ [ngStyle]="
+ {
+    backgroundColor: backgroundcolor,
+    color: textColor,
+    borderColor: borderColor
+ }"
+class="inline-flex items-center justify-center px-4 py-2 border shadow-sm text-sm font-medium rounded-md focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-pink-500 xl:w-full"
+(click)="onClick()">
+{{text}}
+</button>

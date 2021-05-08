@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": "CKTWCR9pXwLkjMMF3pqy5qGk7bFSEOAeVLZY9ZLxqaI3oLBnXfA5lNt5xXTJ5uoN",
+      "title": "Create activity feed",
+      "currentTime": "Sat May 08 2021 02:49:51 GMT+0200 (Midden-Europese zomertijd)",
+      "completed": false
+    },
+    {
+      "id": "E6lNjY1yElguk64smWr91xePfdb24zF0C8WqjEJVyBuzQWVOcn6UHk2wkg866LBZ",
+      "title": "Dynamic error alert for form",
+      "currentTime": "Sat May 08 2021 02:50:51 GMT+0200 (Midden-Europese zomertijd)",
+      "deadlineDate": "",
+      "completed": false
+    }
+  ],
+  "activities": [
+    {
+      "id": 1,
+      "tasks_id": 1,
+      "date": "May 8th at 8:30pm"
+    }
+  ]
+}
