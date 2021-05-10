@@ -12,6 +12,19 @@
       "currentTime": "Sat May 08 2021 02:50:51 GMT+0200 (Midden-Europese zomertijd)",
       "deadlineDate": "",
       "completed": false
+    },
+    {
+      "id": "WtN3xbKnOrIy8uUVF3Fb4IROsGA1YS7yOHToNa6gcD6VZrHLzjiXel6zwbtnMXHn",
+      "title": "Implement darkmode",
+      "currentTime": "Mon May 10 2021 12:39:10 GMT+0200 (Midden-Europese zomertijd)",
+      "deadlineDate": "",
+      "completed": false
+    },
+    {
+      "id": "lh7W9sTi8s3Ms07VfcN1aRWz60SMeu3masmdbgQNLWUtvFgoVVPH3Oo7WIAYxIc5",
+      "title": "Test random",
+      "currentTime": "Mon May 10 2021 21:36:38 GMT+0200 (Midden-Europese zomertijd)",
+      "completed": false
     }
   ],
   "activities": [

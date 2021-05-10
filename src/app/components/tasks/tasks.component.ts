@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { LoaderService } from 'src/app/services/loader.service';
 import {TaskService} from '../../services/task.service';
 import {Task} from '../../Task';
 
@@ -9,7 +10,8 @@ import {Task} from '../../Task';
 })
 export class TasksComponent implements OnInit {
   tasks:Task[] = [];
-  constructor(private _taskService: TaskService) { }
+  constructor(private _taskService: TaskService,
+              public loaderService: LoaderService) { }
 
   ngOnInit(): void {
     this._taskService.getTasks().subscribe((tasks) => this.tasks = tasks);
